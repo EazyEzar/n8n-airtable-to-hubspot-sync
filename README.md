@@ -1,10 +1,14 @@
-# n8n: Batch-Sync Approved Leads from Airtable to HubSpot
+# n8n: Workflow for Two-Way Sync Between Airtable and HubSpot
 
 This n8n workflow provides a robust, batch-processing solution for syncing approved leads from an Airtable "control panel" directly into HubSpot.
 
 It automatically **Finds or Creates** companies, **Creates or Updates** contacts, and **Associates** them correctly, with full error-logging back to Airtable.
 
-**View this template on the n8n Creators Hub:** [Link to your template] *(<-- Add this link once it's published!)*
+**🔗 View this workflow on n8n:** [Workflow for Two-Way Sync Between Airtable and HubSpot](https://n8n.io/workflows/10866)
+
+**👤 Created by:** [Ehsan Z - n8n Creator](https://n8n.io/creators/ehsan-z/)
+
+**🚀 Try n8n:** [Get started with n8n](https://n8n.partnerlinks.io/spkrs32edelt)
 
 ---
 
